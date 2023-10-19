@@ -26,11 +26,11 @@ https://www.mingw-w64.org/downloads/#mingw-builds
 
 - 3、安装vscode，注意勾选安装到path
 
-- ![image-20231020011732497](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231020011732497.png)
+- ![image-20231020011732497.png](http://tva1.sinaimg.cn/large/006nBDeUgy1hj13d9ic6vj30ga0cudhx.jpg)
 
 - 4、安装插件：
 
-  ![image-20231020011203347](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231020011203347.png)
+  ![image-20231020011203347.png](http://tva1.sinaimg.cn/large/006nBDeUgy1hj13dnas78j306u08njsz.jpg)
 
   - cmake
   - cmake tools（与上面的插件共同用于项目搭建和管理）
@@ -41,11 +41,11 @@ https://www.mingw-w64.org/downloads/#mingw-builds
 
 ​	先打开你要使用的项目文件夹（空文件夹），按下键盘快捷键`ctrl + shift + p`，点击cmake quick start，选择项目名、c++编译器路径等等，创建好项目。
 
-![image-20231020011255782](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231020011255782.png)
+![image-20231020011255782.png](http://tva1.sinaimg.cn/large/006nBDeUgy1hj13dyn1yej30gs03l0tm.jpg)
 
 ​	点击 vscode UI界面下方的运行按钮即可运行代码。
 
-![image-20231020011358834](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231020011358834.png)
+![image-20231020011358834.png](http://tva1.sinaimg.cn/large/006nBDeUgy1hj13e79i0lj307c00s3yj.jpg)
 
 ### 配置调试
 
@@ -53,6 +53,6 @@ https://www.mingw-w64.org/downloads/#mingw-builds
 
 ​	调试只需打好断点，点击调试按钮。
 
-![image-20231020011516379](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231020011516379.png)
+![image-20231020011516379.png](http://tva1.sinaimg.cn/large/006nBDeUgy1hj13eg2015j308b0gyjs4.jpg)
 
-![image-20231020011609176](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231020011609176.png)
+![image-20231020011609176.png](http://tva1.sinaimg.cn/large/006nBDeUgy1hj13eo6a10j30pu0gnafq.jpg)
