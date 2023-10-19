@@ -12,7 +12,7 @@ https://www.mingw-w64.org/downloads/#mingw-builds
 
 - 1、准备环节：
 
-- ![image-20231020011028052](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231020011028052.png)
+- ![image-20231020011028052.png](http://tva1.sinaimg.cn/large/006nBDeUgy1hj13aysnbgj305r03v757.jpg)
 
   - 要先安装好visual studio，如果不安装的话后续clangd插件配置c++头文件路径会非常麻烦，安装了visual studio就可以直接用visual studio的c++头文件路径。
 
